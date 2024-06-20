@@ -1,1 +1,1 @@
-{"name":"a1","group":"g1","speed":"0.7","handling":"1.05","type":"thief"}
+{"name":"a1","speed":"0.7","handling":"1.05","type":"thief"}
