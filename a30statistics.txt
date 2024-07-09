@@ -1,0 +1,1 @@
+{"name":"a30","speed":"1","handling":"1.07","type":"thief"}
